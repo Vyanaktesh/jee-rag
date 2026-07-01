@@ -1,0 +1,6 @@
+question,faithfulness,relevancy,precision,recall,answer
+What is work done by a force?,0.0,0.0,0.0,0.0,failed
+When is work done by a force zero?,1.0,0.783,0.8,0.556,"Work is zero when the displacement is zero, even if the force is large."
+What is kinetic energy?,1.0,0.849,1.0,0.4,Kinetic energy is the energy that an object possesses due to its motion. It is a measure of the work
+What is the work energy theorem?,0.75,0.769,1.0,0.4,The work-energy theorem states that the total work done on a body equals the change in its kinetic e
+What is potential energy?,1.0,0.873,0.4,0.0,Potential energy is the stored energy by virtue of the position or configuration of a body. When ext
